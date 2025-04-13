@@ -1,0 +1,853 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|c:\\users\\msi\\desktop\\folder\\sem6\\dotnet\\lab 1 i 2\\projpmgitpoviewmodel\\controllers\\kliencicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|solutionrelative:controllers\\kliencicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|c:\\users\\msi\\desktop\\folder\\sem6\\dotnet\\lab 1 i 2\\projpmgitpoviewmodel\\controllers\\wypozyczeniacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|solutionrelative:controllers\\wypozyczeniacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|c:\\users\\msi\\desktop\\folder\\sem6\\dotnet\\lab 1 i 2\\projpmgitpoviewmodel\\views\\klienci\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|solutionrelative:views\\klienci\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|c:\\users\\msi\\desktop\\folder\\sem6\\dotnet\\lab 1 i 2\\projpmgitpoviewmodel\\views\\wypozyczenia\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|solutionrelative:views\\wypozyczenia\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|c:\\users\\msi\\desktop\\folder\\sem6\\dotnet\\lab 1 i 2\\projpmgitpoviewmodel\\views\\klienci\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|solutionrelative:views\\klienci\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|c:\\users\\msi\\desktop\\folder\\sem6\\dotnet\\lab 1 i 2\\projpmgitpoviewmodel\\models\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|solutionrelative:models\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|c:\\users\\msi\\desktop\\folder\\sem6\\dotnet\\lab 1 i 2\\projpmgitpoviewmodel\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|c:\\users\\msi\\desktop\\folder\\sem6\\dotnet\\lab 1 i 2\\projpmgitpoviewmodel\\validators\\samochodviewmodelvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|solutionrelative:validators\\samochodviewmodelvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|c:\\users\\msi\\desktop\\folder\\sem6\\dotnet\\lab 1 i 2\\projpmgitpoviewmodel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|c:\\users\\msi\\desktop\\folder\\sem6\\dotnet\\lab 1 i 2\\projpmgitpoviewmodel\\validators\\klientviewmodelvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|solutionrelative:validators\\klientviewmodelvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|c:\\users\\msi\\desktop\\folder\\sem6\\dotnet\\lab 1 i 2\\projpmgitpoviewmodel\\models\\wypozyczenie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|solutionrelative:models\\wypozyczenie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|c:\\users\\msi\\desktop\\folder\\sem6\\dotnet\\lab 1 i 2\\projpmgitpoviewmodel\\models\\samochod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|solutionrelative:models\\samochod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|c:\\users\\msi\\desktop\\folder\\sem6\\dotnet\\lab 1 i 2\\projpmgitpoviewmodel\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|c:\\users\\msi\\desktop\\folder\\sem6\\dotnet\\lab 1 i 2\\projpmgitpoviewmodel\\models\\klient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|solutionrelative:models\\klient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|c:\\users\\msi\\desktop\\folder\\sem6\\dotnet\\lab 1 i 2\\projpmgitpoviewmodel\\views\\samochody\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|solutionrelative:views\\samochody\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|c:\\users\\msi\\desktop\\folder\\sem6\\dotnet\\lab 1 i 2\\projpmgitpoviewmodel\\controllers\\samochodycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|solutionrelative:controllers\\samochodycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|c:\\users\\msi\\desktop\\folder\\sem6\\dotnet\\lab 1 i 2\\projpmgitpoviewmodel\\data\\wypozyczenierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|solutionrelative:data\\wypozyczenierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|c:\\users\\msi\\desktop\\folder\\sem6\\dotnet\\lab 1 i 2\\projpmgitpoviewmodel\\data\\klientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|solutionrelative:data\\klientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|c:\\users\\msi\\desktop\\folder\\sem6\\dotnet\\lab 1 i 2\\projpmgitpoviewmodel\\validators\\topwypozyczanesamochodyviewmodelvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|solutionrelative:validators\\topwypozyczanesamochodyviewmodelvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|c:\\users\\msi\\desktop\\folder\\sem6\\dotnet\\lab 1 i 2\\projpmgitpoviewmodel\\validators\\wypozyczenieviewmodelvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|solutionrelative:validators\\wypozyczenieviewmodelvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|c:\\users\\msi\\desktop\\folder\\sem6\\dotnet\\lab 1 i 2\\projpmgitpoviewmodel\\projpm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|solutionrelative:projpm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|c:\\users\\msi\\desktop\\folder\\sem6\\dotnet\\lab 1 i 2\\projpmgitpoviewmodel\\viewmodels\\wypozyczenieviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|solutionrelative:viewmodels\\wypozyczenieviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|c:\\users\\msi\\desktop\\folder\\sem6\\dotnet\\lab 1 i 2\\projpmgitpoviewmodel\\viewmodels\\topwypozyczanesamochodydtovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|solutionrelative:viewmodels\\topwypozyczanesamochodydtovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|c:\\users\\msi\\desktop\\folder\\sem6\\dotnet\\lab 1 i 2\\projpmgitpoviewmodel\\viewmodels\\samochodviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|solutionrelative:viewmodels\\samochodviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|c:\\users\\msi\\desktop\\folder\\sem6\\dotnet\\lab 1 i 2\\projpmgitpoviewmodel\\viewmodels\\klientviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|solutionrelative:viewmodels\\klientviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|c:\\users\\msi\\desktop\\folder\\sem6\\dotnet\\lab 1 i 2\\projpmgitpoviewmodel\\views\\samochody\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|solutionrelative:views\\samochody\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|c:\\users\\msi\\desktop\\folder\\sem6\\dotnet\\lab 1 i 2\\projpmgitpoviewmodel\\views\\samochody\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|solutionrelative:views\\samochody\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|c:\\users\\msi\\desktop\\folder\\sem6\\dotnet\\lab 1 i 2\\projpmgitpoviewmodel\\data\\iwypozyczenierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|solutionrelative:data\\iwypozyczenierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|c:\\users\\msi\\desktop\\folder\\sem6\\dotnet\\lab 1 i 2\\projpmgitpoviewmodel\\services\\wypozyczenieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|solutionrelative:services\\wypozyczenieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|c:\\users\\msi\\desktop\\folder\\sem6\\dotnet\\lab 1 i 2\\projpmgitpoviewmodel\\data\\wypozyczalniacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|solutionrelative:data\\wypozyczalniacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|c:\\users\\msi\\desktop\\folder\\sem6\\dotnet\\lab 1 i 2\\projpmgitpoviewmodel\\services\\iwypozyczenieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|solutionrelative:services\\iwypozyczenieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|c:\\users\\msi\\desktop\\folder\\sem6\\dotnet\\lab 1 i 2\\projpmgitpoviewmodel\\views\\samochody\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|solutionrelative:views\\samochody\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|c:\\users\\msi\\desktop\\folder\\sem6\\dotnet\\lab 1 i 2\\projpmgitpoviewmodel\\views\\samochody\\topsamochody.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|solutionrelative:views\\samochody\\topsamochody.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|c:\\users\\msi\\desktop\\folder\\sem6\\dotnet\\lab 1 i 2\\projpmgitpoviewmodel\\services\\isamochodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|solutionrelative:services\\isamochodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|c:\\users\\msi\\desktop\\folder\\sem6\\dotnet\\lab 1 i 2\\projpmgitpoviewmodel\\services\\iklientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|solutionrelative:services\\iklientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|c:\\users\\msi\\desktop\\folder\\sem6\\dotnet\\lab 1 i 2\\projpmgitpoviewmodel\\services\\klientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|solutionrelative:services\\klientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|c:\\users\\msi\\desktop\\folder\\sem6\\dotnet\\lab 1 i 2\\projpmgitpoviewmodel\\services\\samochodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|solutionrelative:services\\samochodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|c:\\users\\msi\\desktop\\folder\\sem6\\dotnet\\lab 1 i 2\\projpmgitpoviewmodel\\views\\wypozyczenia\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|solutionrelative:views\\wypozyczenia\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|c:\\users\\msi\\desktop\\folder\\sem6\\dotnet\\lab 1 i 2\\projpmgitpoviewmodel\\data\\isamochodyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|solutionrelative:data\\isamochodyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|c:\\users\\msi\\desktop\\folder\\sem6\\dotnet\\lab 1 i 2\\projpmgitpoviewmodel\\data\\samochodrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|solutionrelative:data\\samochodrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|c:\\users\\msi\\desktop\\folder\\sem6\\dotnet\\lab 1 i 2\\projpmgitpoviewmodel\\data\\iklientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|solutionrelative:data\\iklientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|c:\\users\\msi\\desktop\\folder\\sem6\\dotnet\\lab 1 i 2\\projpmgitpoviewmodel\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|c:\\users\\msi\\desktop\\folder\\sem6\\dotnet\\lab 1 i 2\\projpmgitpoviewmodel\\views\\wypozyczenia\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|solutionrelative:views\\wypozyczenia\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|c:\\users\\msi\\desktop\\folder\\sem6\\dotnet\\lab 1 i 2\\projpmgitpoviewmodel\\views\\wypozyczenia\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|solutionrelative:views\\wypozyczenia\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|c:\\users\\msi\\desktop\\folder\\sem6\\dotnet\\lab 1 i 2\\projpmgitpoviewmodel\\views\\klienci\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|solutionrelative:views\\klienci\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|c:\\users\\msi\\desktop\\folder\\sem6\\dotnet\\lab 1 i 2\\projpmgitpoviewmodel\\views\\klienci\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|solutionrelative:views\\klienci\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|c:\\users\\msi\\desktop\\folder\\sem6\\dotnet\\lab 1 i 2\\projpmgitpoviewmodel\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|c:\\users\\msi\\desktop\\folder\\sem6\\dotnet\\lab 1 i 2\\projpmgitpoviewmodel\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|c:\\users\\msi\\desktop\\folder\\sem6\\dotnet\\lab 1 i 2\\projpmgitpoviewmodel\\migrations\\20250320113608_addkliencitable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B106AD-FF1D-4436-A494-03AE11C1F530}|ProjPM.csproj|solutionrelative:migrations\\20250320113608_addkliencitable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WypozyczeniaController.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Controllers\\WypozyczeniaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WypozyczeniaController.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Controllers\\WypozyczeniaController.cs",
+              "RelativeToolTip": "Controllers\\WypozyczeniaController.cs",
+              "ViewState": "AQIAAIsAAAAAAAAAAAAYwLAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T12:33:33.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Views\\Klienci\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Klienci\\Create.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Views\\Klienci\\Create.cshtml",
+              "RelativeToolTip": "Views\\Klienci\\Create.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwCwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T11:31:32.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KlienciController.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Controllers\\KlienciController.cs",
+              "RelativeDocumentMoniker": "Controllers\\KlienciController.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Controllers\\KlienciController.cs",
+              "RelativeToolTip": "Controllers\\KlienciController.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAYwIQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:30:40.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Views\\Wypozyczenia\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Wypozyczenia\\Create.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Views\\Wypozyczenia\\Create.cshtml",
+              "RelativeToolTip": "Views\\Wypozyczenia\\Create.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAQwBAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T12:33:48.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Views\\Klienci\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Klienci\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Views\\Klienci\\Index.cshtml",
+              "RelativeToolTip": "Views\\Klienci\\Index.cshtml",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwEQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T12:26:26.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PagedResult.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Models\\PagedResult.cs",
+              "RelativeDocumentMoniker": "Models\\PagedResult.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Models\\PagedResult.cs",
+              "RelativeToolTip": "Models\\PagedResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T12:22:01.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-11T14:47:29.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "KlientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Data\\KlientRepository.cs",
+              "RelativeDocumentMoniker": "Data\\KlientRepository.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Data\\KlientRepository.cs",
+              "RelativeToolTip": "Data\\KlientRepository.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAowD0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:31:23.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SamochodViewModelValidator.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Validators\\SamochodViewModelValidator.cs",
+              "RelativeDocumentMoniker": "Validators\\SamochodViewModelValidator.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Validators\\SamochodViewModelValidator.cs",
+              "RelativeToolTip": "Validators\\SamochodViewModelValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAYwAEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T14:07:14.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:40:27.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WypozyczenieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Data\\WypozyczenieRepository.cs",
+              "RelativeDocumentMoniker": "Data\\WypozyczenieRepository.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Data\\WypozyczenieRepository.cs",
+              "RelativeToolTip": "Data\\WypozyczenieRepository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T11:12:54.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "WypozyczenieViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Viewmodels\\WypozyczenieViewModel.cs",
+              "RelativeDocumentMoniker": "Viewmodels\\WypozyczenieViewModel.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Viewmodels\\WypozyczenieViewModel.cs",
+              "RelativeToolTip": "Viewmodels\\WypozyczenieViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T10:53:06.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Klient.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Models\\Klient.cs",
+              "RelativeDocumentMoniker": "Models\\Klient.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Models\\Klient.cs",
+              "RelativeToolTip": "Models\\Klient.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:34:06.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T10:44:28.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Samochod.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Models\\Samochod.cs",
+              "RelativeDocumentMoniker": "Models\\Samochod.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Models\\Samochod.cs",
+              "RelativeToolTip": "Models\\Samochod.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T15:41:56.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Wypozyczenie.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Models\\Wypozyczenie.cs",
+              "RelativeDocumentMoniker": "Models\\Wypozyczenie.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Models\\Wypozyczenie.cs",
+              "RelativeToolTip": "Models\\Wypozyczenie.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAuwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T12:33:20.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "KlientViewModelValidator.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Validators\\KlientViewModelValidator.cs",
+              "RelativeDocumentMoniker": "Validators\\KlientViewModelValidator.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Validators\\KlientViewModelValidator.cs",
+              "RelativeToolTip": "Validators\\KlientViewModelValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T14:10:43.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WypozyczenieViewModelValidator.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Validators\\WypozyczenieViewModelValidator.cs",
+              "RelativeDocumentMoniker": "Validators\\WypozyczenieViewModelValidator.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Validators\\WypozyczenieViewModelValidator.cs",
+              "RelativeToolTip": "Validators\\WypozyczenieViewModelValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T14:13:49.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Views\\Samochody\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Samochody\\Create.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Views\\Samochody\\Create.cshtml",
+              "RelativeToolTip": "Views\\Samochody\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T11:20:28.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SamochodyController.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Controllers\\SamochodyController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SamochodyController.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Controllers\\SamochodyController.cs",
+              "RelativeToolTip": "Controllers\\SamochodyController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAMwDQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T11:07:00.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TopWypozyczaneSamochodyViewModelValidator.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Validators\\TopWypozyczaneSamochodyViewModelValidator.cs",
+              "RelativeDocumentMoniker": "Validators\\TopWypozyczaneSamochodyViewModelValidator.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Validators\\TopWypozyczaneSamochodyViewModelValidator.cs",
+              "RelativeToolTip": "Validators\\TopWypozyczaneSamochodyViewModelValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T14:18:38.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TopWypozyczaneSamochodyDtoVM.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Viewmodels\\TopWypozyczaneSamochodyDtoVM.cs",
+              "RelativeDocumentMoniker": "Viewmodels\\TopWypozyczaneSamochodyDtoVM.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Viewmodels\\TopWypozyczaneSamochodyDtoVM.cs",
+              "RelativeToolTip": "Viewmodels\\TopWypozyczaneSamochodyDtoVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T11:05:55.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProjPM.csproj",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\ProjPM.csproj",
+              "RelativeDocumentMoniker": "ProjPM.csproj",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\ProjPM.csproj",
+              "RelativeToolTip": "ProjPM.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-27T11:18:22.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SamochodViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Viewmodels\\SamochodViewModel.cs",
+              "RelativeDocumentMoniker": "Viewmodels\\SamochodViewModel.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Viewmodels\\SamochodViewModel.cs",
+              "RelativeToolTip": "Viewmodels\\SamochodViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T10:53:15.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "KlientViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Viewmodels\\KlientViewModel.cs",
+              "RelativeDocumentMoniker": "Viewmodels\\KlientViewModel.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Viewmodels\\KlientViewModel.cs",
+              "RelativeToolTip": "Viewmodels\\KlientViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T11:17:05.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Views\\Samochody\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Samochody\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Views\\Samochody\\Index.cshtml",
+              "RelativeToolTip": "Views\\Samochody\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T14:22:32.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IWypozyczenieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Data\\IWypozyczenieRepository.cs",
+              "RelativeDocumentMoniker": "Data\\IWypozyczenieRepository.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Data\\IWypozyczenieRepository.cs",
+              "RelativeToolTip": "Data\\IWypozyczenieRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T11:11:15.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "WypozyczenieService.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Services\\WypozyczenieService.cs",
+              "RelativeDocumentMoniker": "Services\\WypozyczenieService.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Services\\WypozyczenieService.cs",
+              "RelativeToolTip": "Services\\WypozyczenieService.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAowEAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:21:11.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Views\\Samochody\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Samochody\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Views\\Samochody\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Samochody\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T13:07:07.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IWypozyczenieService.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Services\\IWypozyczenieService.cs",
+              "RelativeDocumentMoniker": "Services\\IWypozyczenieService.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Services\\IWypozyczenieService.cs",
+              "RelativeToolTip": "Services\\IWypozyczenieService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:20:52.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "WypozyczalniaContext.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Data\\WypozyczalniaContext.cs",
+              "RelativeDocumentMoniker": "Data\\WypozyczalniaContext.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Data\\WypozyczalniaContext.cs",
+              "RelativeToolTip": "Data\\WypozyczalniaContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:35:10.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "TopSamochody.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Views\\Samochody\\TopSamochody.cshtml",
+              "RelativeDocumentMoniker": "Views\\Samochody\\TopSamochody.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Views\\Samochody\\TopSamochody.cshtml",
+              "RelativeToolTip": "Views\\Samochody\\TopSamochody.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T11:30:54.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Views\\Samochody\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Samochody\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Views\\Samochody\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Samochody\\Edit.cshtml",
+              "ViewState": "AQIAABoAAAAAAAAAAAAuwD8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T11:48:11.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ISamochodService.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Services\\ISamochodService.cs",
+              "RelativeDocumentMoniker": "Services\\ISamochodService.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Services\\ISamochodService.cs",
+              "RelativeToolTip": "Services\\ISamochodService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAwwBsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:20:09.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "KlientService.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Services\\KlientService.cs",
+              "RelativeDocumentMoniker": "Services\\KlientService.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Services\\KlientService.cs",
+              "RelativeToolTip": "Services\\KlientService.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAIBJwCAAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:19:00.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IKlientService.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Services\\IKlientService.cs",
+              "RelativeDocumentMoniker": "Services\\IKlientService.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Services\\IKlientService.cs",
+              "RelativeToolTip": "Services\\IKlientService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:19:32.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "SamochodService.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Services\\SamochodService.cs",
+              "RelativeDocumentMoniker": "Services\\SamochodService.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Services\\SamochodService.cs",
+              "RelativeToolTip": "Services\\SamochodService.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAIBJwEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:20:29.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ISamochodyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Data\\ISamochodyRepository.cs",
+              "RelativeDocumentMoniker": "Data\\ISamochodyRepository.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Data\\ISamochodyRepository.cs",
+              "RelativeToolTip": "Data\\ISamochodyRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T08:57:56.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Views\\Wypozyczenia\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Wypozyczenia\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Views\\Wypozyczenia\\Index.cshtml",
+              "RelativeToolTip": "Views\\Wypozyczenia\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAIBJwBMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T12:42:06.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "SamochodRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Data\\SamochodRepository.cs",
+              "RelativeDocumentMoniker": "Data\\SamochodRepository.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Data\\SamochodRepository.cs",
+              "RelativeToolTip": "Data\\SamochodRepository.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAiwDYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T09:05:59.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IKlientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Data\\IKlientRepository.cs",
+              "RelativeDocumentMoniker": "Data\\IKlientRepository.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Data\\IKlientRepository.cs",
+              "RelativeToolTip": "Data\\IKlientRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:31:13.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAywCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T11:10:57.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Views\\Wypozyczenia\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Wypozyczenia\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Views\\Wypozyczenia\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Wypozyczenia\\Edit.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwB0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T12:33:58.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Views\\Wypozyczenia\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Wypozyczenia\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Views\\Wypozyczenia\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Wypozyczenia\\Delete.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAwwCQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T12:34:47.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Views\\Klienci\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Klienci\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Views\\Klienci\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Klienci\\Edit.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAkwAwAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T11:48:13.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Views\\Klienci\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Klienci\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Views\\Klienci\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Klienci\\Delete.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAwwCIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T11:40:42.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADIAAAAAAAAAAAAiwEoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T11:57:19.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-20T11:40:32.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "20250320113608_AddKlienciTable.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Migrations\\20250320113608_AddKlienciTable.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250320113608_AddKlienciTable.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\folder\\SEM6\\dotnet\\lab 1 i 2\\ProjPMgitpoviewmodel\\Migrations\\20250320113608_AddKlienciTable.cs",
+              "RelativeToolTip": "Migrations\\20250320113608_AddKlienciTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:36:09.111Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

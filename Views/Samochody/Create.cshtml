@@ -1,0 +1,63 @@
+﻿@model Wypozyczalnia.ViewModels.SamochodViewModel
+
+@{
+    ViewData["Title"] = "Dodaj samochód";
+}
+
+<h2>Dodaj nowy samochód</h2>
+
+<form asp-action="Create" method="post">
+    <div asp-validation-summary="All" class="text-danger"></div>
+    <div class="form-group">
+        <label asp-for="Marka" class="control-label"></label>
+        <input asp-for="Marka" class="form-control" />
+        <span asp-validation-for="Marka" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Model" class="control-label"></label>
+        <input asp-for="Model" class="form-control" />
+        <span asp-validation-for="Model" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="RokProdukcji" class="control-label"></label>
+        <input asp-for="RokProdukcji" class="form-control" type="number" />
+        <span asp-validation-for="RokProdukcji" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Kolor" class="control-label"></label>
+        <input asp-for="Kolor" class="form-control" />
+        <span asp-validation-for="Kolor" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Dostepnosc" class="control-label"></label>
+        <select asp-for="Dostepnosc" class="form-control">
+            <option value="true">Dostępny</option>
+            <option value="false">Niedostępny</option>
+        </select>
+        <span asp-validation-for="Dostepnosc" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="PojSilnika" class="control-label"></label>
+        <input asp-for="PojSilnika" class="form-control" type="number" />
+        <span asp-validation-for="PojSilnika" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="MocSilnika" class="control-label"></label>
+        <input asp-for="MocSilnika" class="form-control" type="number" />
+        <span asp-validation-for="MocSilnika" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="CenaZaWypozyczenie" class="control-label"></label>
+        <input asp-for="CenaZaWypozyczenie" class="form-control" type="number" />
+        <span asp-validation-for="CenaZaWypozyczenie" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Dodaj" class="btn btn-primary" />
+        <a asp-action="Index" class="btn btn-secondary">Wróć</a>
+    </div>
+    <input type="hidden" asp-antiforgery="true" />
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

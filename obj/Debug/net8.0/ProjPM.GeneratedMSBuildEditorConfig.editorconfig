@@ -1,0 +1,107 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ProjPM
+build_property.RootNamespace = ProjPM
+build_property.ProjectDir = C:\Users\MSI\Desktop\folder\SEM6\dotnet\lab 1 i 2\ProjPMgitpoviewmodel\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\MSI\Desktop\folder\SEM6\dotnet\lab 1 i 2\ProjPMgitpoviewmodel
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/MSI/Desktop/folder/SEM6/dotnet/lab 1 i 2/ProjPMgitpoviewmodel/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI/Desktop/folder/SEM6/dotnet/lab 1 i 2/ProjPMgitpoviewmodel/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI/Desktop/folder/SEM6/dotnet/lab 1 i 2/ProjPMgitpoviewmodel/Views/Klienci/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2xpZW5jaVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI/Desktop/folder/SEM6/dotnet/lab 1 i 2/ProjPMgitpoviewmodel/Views/Klienci/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2xpZW5jaVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI/Desktop/folder/SEM6/dotnet/lab 1 i 2/ProjPMgitpoviewmodel/Views/Klienci/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2xpZW5jaVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI/Desktop/folder/SEM6/dotnet/lab 1 i 2/ProjPMgitpoviewmodel/Views/Klienci/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2xpZW5jaVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI/Desktop/folder/SEM6/dotnet/lab 1 i 2/ProjPMgitpoviewmodel/Views/Samochody/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Ftb2Nob2R5XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI/Desktop/folder/SEM6/dotnet/lab 1 i 2/ProjPMgitpoviewmodel/Views/Samochody/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Ftb2Nob2R5XERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI/Desktop/folder/SEM6/dotnet/lab 1 i 2/ProjPMgitpoviewmodel/Views/Samochody/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Ftb2Nob2R5XEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI/Desktop/folder/SEM6/dotnet/lab 1 i 2/ProjPMgitpoviewmodel/Views/Samochody/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Ftb2Nob2R5XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI/Desktop/folder/SEM6/dotnet/lab 1 i 2/ProjPMgitpoviewmodel/Views/Samochody/TopSamochody.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2Ftb2Nob2R5XFRvcFNhbW9jaG9keS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI/Desktop/folder/SEM6/dotnet/lab 1 i 2/ProjPMgitpoviewmodel/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI/Desktop/folder/SEM6/dotnet/lab 1 i 2/ProjPMgitpoviewmodel/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI/Desktop/folder/SEM6/dotnet/lab 1 i 2/ProjPMgitpoviewmodel/Views/Wypozyczenia/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV3lwb3p5Y3plbmlhXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI/Desktop/folder/SEM6/dotnet/lab 1 i 2/ProjPMgitpoviewmodel/Views/Wypozyczenia/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV3lwb3p5Y3plbmlhXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI/Desktop/folder/SEM6/dotnet/lab 1 i 2/ProjPMgitpoviewmodel/Views/Wypozyczenia/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV3lwb3p5Y3plbmlhXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI/Desktop/folder/SEM6/dotnet/lab 1 i 2/ProjPMgitpoviewmodel/Views/Wypozyczenia/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV3lwb3p5Y3plbmlhXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI/Desktop/folder/SEM6/dotnet/lab 1 i 2/ProjPMgitpoviewmodel/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI/Desktop/folder/SEM6/dotnet/lab 1 i 2/ProjPMgitpoviewmodel/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/MSI/Desktop/folder/SEM6/dotnet/lab 1 i 2/ProjPMgitpoviewmodel/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-p49i2q1ey1

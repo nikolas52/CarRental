@@ -1,0 +1,47 @@
+﻿@model Wypozyczalnia.Models.Wypozyczenie
+@{
+    ViewData["Title"] = "Usuń wypożyczenie";
+}
+<h2>Usuń wypożyczenie</h2>
+<h3>Czy na pewno chcesz usunąć to wypożyczenie?</h3>
+<div>
+    <h4>Wypożyczenie</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            Klient
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Klient.Imie @Model.Klient.Nazwisko
+        </dd>
+        <dt class="col-sm-2">
+            Samochód
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Samochod.Marka @Model.Samochod.Model
+        </dd>
+        <dt class="col-sm-2">
+            Data rozpoczęcia
+        </dt>
+        <dd class="col-sm-10">
+            @Model.DataRozpoczecia.ToString("yyyy-MM-dd")
+        </dd>
+        <dt class="col-sm-2">
+            Data zakończenia
+        </dt>
+        <dd class="col-sm-10">
+            @Model.DataZakonczenia.ToString("yyyy-MM-dd")
+        </dd>
+        <dt class="col-sm-2">
+            Kwota
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Kwota
+        </dd>
+    </dl>
+    <form asp-action="Delete" method="post">
+        <input type="hidden" asp-for="IdWypozyczenia" />
+        <input type="submit" value="Usuń" class="btn btn-danger" /> |
+        <a asp-action="Index" class="btn btn-secondary">Wróć</a>
+    </form>
+</div>

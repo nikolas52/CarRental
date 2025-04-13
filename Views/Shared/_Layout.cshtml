@@ -1,0 +1,86 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Wypozyczalnia samochodów</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/ProjPM.styles.css" asp-append-version="true" />
+    @RenderSection("Styles", required: false)
+</head>
+<body class="d-flex flex-column min-vh-100">
+    <header>
+        <nav class="navbar navbar-light bg-white border-bottom py-3">
+            <div class="container-fluid d-flex align-items-center justify-content-center">
+                <a class="navbar-brand text-dark me-5" style="text-decoration: none;" asp-area="" asp-controller="Home" asp-action="Index">Wypozyczalnia samochodów</a>
+                <div class="d-flex">
+                    <a class="nav-link text-dark mx-5" style="text-decoration: none;" asp-area="" asp-controller="Klienci" asp-action="Index">Klienci</a>
+                    <a class="nav-link text-dark mx-5" style="text-decoration: none;" asp-area="" asp-controller="Samochody" asp-action="Index">Samochody</a>
+                    <a class="nav-link text-dark mx-5" style="text-decoration: none;" asp-area="" asp-controller="Wypozyczenia" asp-action="Index">Wypozyczenia</a>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container my-4">
+        <main role="main" class="flex-grow-1">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top text-muted bg-light py-3">
+        <div class="container text-center">
+            © 2025 - Wypozyczalnia samochodów - <a asp-area="" asp-controller="Home" asp-action="Privacy" style="text-decoration: none; color: inherit;">Polityka prywatności</a>
+        </div>
+    </footer>
+
+    <!-- Skrypty -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.5/jquery.validate.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.12/jquery.validate.unobtrusive.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+        }
+
+        main {
+            flex: 1 0 auto;
+        }
+
+        footer {
+            flex-shrink: 0;
+        }
+
+        .nav-link {
+            color: #000 !important;
+            padding: 0.5rem 1rem;
+            text-decoration: none;
+            font-size: 1.1rem;
+        }
+
+            .nav-link:hover {
+                color: #333;
+                background-color: transparent;
+            }
+
+        .navbar-brand {
+            color: #000 !important;
+            text-decoration: none;
+            font-size: 1.25rem;
+        }
+
+        .navbar {
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+        }
+    </style>
+</body>
+</html>

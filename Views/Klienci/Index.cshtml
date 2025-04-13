@@ -1,0 +1,69 @@
+﻿@model Wypozyczalnia.Models.PagedResult<Wypozyczalnia.Models.Klient>
+
+@{
+    ViewData["Title"] = "Lista klientów";
+}
+
+<h2>Lista klientów</h2>
+
+<!-- Formularz wyszukiwania po nazwisku -->
+<div class="mb-3">
+    <form asp-action="Index" method="get">
+        <div class="input-group">
+            <input type="text" name="nazwisko" class="form-control" placeholder="Wyszukaj po nazwisku" value="@ViewBag.Nazwisko" />
+            <input type="hidden" name="pageNumber" value="1" />
+            <input type="hidden" name="pageSize" value="@Model.PageSize" />
+            <button type="submit" class="btn btn-primary">Szukaj</button>
+            <a asp-action="Index" class="btn btn-secondary ms-2">Wyczyść</a>
+        </div>
+    </form>
+</div>
+
+<!-- Przycisk dodawania klienta -->
+<p>
+    <a asp-action="Create" class="btn btn-primary">Dodaj nowego klienta</a>
+</p>
+
+<!-- Tabela klientów -->
+<table class="table">
+    <thead>
+        <tr>
+            <th>Imię</th>
+            <th>Nazwisko</th>
+            <th>Email</th>
+            <th>Telefon</th>
+            <th>Adres</th>
+            <th>Akcje</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var klient in Model.Items)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => klient.Imie)</td>
+                <td>@Html.DisplayFor(modelItem => klient.Nazwisko)</td>
+                <td>@Html.DisplayFor(modelItem => klient.Email)</td>
+                <td>@Html.DisplayFor(modelItem => klient.Telefon)</td>
+                <td>@Html.DisplayFor(modelItem => klient.Adres)</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@klient.IdKlienta" class="btn btn-warning">Edytuj</a>
+                    <a asp-action="Delete" asp-route-id="@klient.IdKlienta" class="btn btn-danger">Usuń</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div class="d-flex justify-content-between">
+    <p>Strona @Model.PageNumber z @Model.TotalPages (Łącznie: @Model.TotalCount klientów)</p>
+    <nav>
+        <ul class="pagination">
+            <li class="page-item @(Model.HasPreviousPage ? "" : "disabled")">
+                <a class="page-link" asp-action="Index" asp-route-nazwisko="@ViewBag.Nazwisko" asp-route-pageNumber="@(Model.PageNumber - 1)" asp-route-pageSize="@Model.PageSize">Poprzednia</a>
+            </li>
+            <li class="page-item @(Model.HasNextPage ? "" : "disabled")">
+                <a class="page-link" asp-action="Index" asp-route-nazwisko="@ViewBag.Nazwisko" asp-route-pageNumber="@(Model.PageNumber + 1)" asp-route-pageSize="@Model.PageSize">Następna</a>
+            </li>
+        </ul>
+    </nav>
+</div>
