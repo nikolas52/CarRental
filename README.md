@@ -1,2 +1,5 @@
 Project Overview
-Car Rental System is a web application built using ASP.NET Core, designed to manage a car rental business. It allows users to add, edit, delete, and view clients, cars, and rentals. The project includes features such as pagination, client search by last name, data validation with messages in Polish, and a responsive user interface.
+The Car Rental System is a web application built with ASP.NET Core to manage a car rental business. Users can perform CRUD operations on clients, cars, and rentals, with additional features like pagination, client search by last name, and data validation with Polish error messages. The application provides a responsive user interface and ensures a seamless user experience with localized validation.
+
+
+Requirements
