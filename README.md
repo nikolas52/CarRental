@@ -15,7 +15,7 @@ The Car Rental System is a web application built with ASP.NET Core to manage a c
 ## Installation and Setup
 Clone the repository:
 ```bash
-git clone https://github.com/<your-username>/car-rental-system.git
+git clone https://github.com/<nikolas52>/car-rental-system.git
 cd car-rental-system
 ```
 
