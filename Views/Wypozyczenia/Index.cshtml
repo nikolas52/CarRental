@@ -1,0 +1,38 @@
+﻿@model IEnumerable<Wypozyczalnia.Models.Wypozyczenie>
+
+@{
+    ViewData["Title"] = "Lista wypożyczeń";
+}
+
+<h2>Lista wypożyczeń</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Klient</th>
+            <th>Samochód</th>
+            <th>Data rozpoczęcia</th>
+            <th>Data zakończenia</th>
+            <th>Kwota</th>
+            <th>Akcje</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var wypozyczenie in Model)
+        {
+            <tr>
+                <td>@wypozyczenie.Klient.Imie @wypozyczenie.Klient.Nazwisko</td>
+                <td>@wypozyczenie.Samochod.Marka @wypozyczenie.Samochod.Model</td>
+                <td>@wypozyczenie.DataRozpoczecia.ToString("yyyy-MM-dd")</td>
+                <td>@wypozyczenie.DataZakonczenia.ToString("yyyy-MM-dd")</td>
+                <td>@wypozyczenie.Kwota</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@wypozyczenie.IdWypozyczenia">Edytuj</a> |
+                    <a asp-action="Delete" asp-route-id="@wypozyczenie.IdWypozyczenia">Usuń</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="Create" class="btn btn-primary">Dodaj nowe wypożyczenie</a>

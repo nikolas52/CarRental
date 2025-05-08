@@ -1,0 +1,47 @@
+﻿@model IEnumerable<Wypozyczalnia.ViewModels.SamochodViewModel>
+
+@{
+    ViewData["Title"] = "Lista samochodów";
+}
+
+<h2>Lista samochodów</h2>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Dodaj nowy samochód</a>
+    <a asp-action="TopSamochody" class="btn btn-info ms-2">Pokaż top 5 wypożyczane samochody</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Marka</th>
+            <th>Model</th>
+            <th>Rok produkcji</th>
+            <th>Kolor</th>
+            <th>Dostępność</th>
+            <th>Poj. silnika</th>
+            <th>Moc silnika</th>
+            <th>Cena za wypożyczenie</th>
+            <th>Akcje</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var samochod in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => samochod.Marka)</td>
+                <td>@Html.DisplayFor(modelItem => samochod.Model)</td>
+                <td>@Html.DisplayFor(modelItem => samochod.RokProdukcji)</td>
+                <td>@Html.DisplayFor(modelItem => samochod.Kolor)</td>
+                <td>@Html.DisplayFor(modelItem => samochod.Dostepnosc)</td>
+                <td>@Html.DisplayFor(modelItem => samochod.PojSilnika)</td>
+                <td>@Html.DisplayFor(modelItem => samochod.MocSilnika)</td>
+                <td>@Html.DisplayFor(modelItem => samochod.CenaZaWypozyczenie)</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@samochod.IdSamochodu" class="btn btn-warning">Edytuj</a>
+                    <a asp-action="Delete" asp-route-id="@samochod.IdSamochodu" class="btn btn-danger">Usuń</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

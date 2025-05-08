@@ -1,0 +1,31 @@
+﻿@model IEnumerable<Wypozyczalnia.ViewModels.TopWypozyczaneSamochodyViewModel>
+
+@{
+    ViewData["Title"] = "Top 5 najczęściej wypożyczane samochody";
+}
+
+<h2>Top 5 najczęściej wypożyczane samochody</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Marka</th>
+            <th>Model</th>
+            <th>Liczba wypożyczeń</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var samochod in Model)
+        {
+            <tr>
+                <td>@samochod.Marka</td>
+                <td>@samochod.Model</td>
+                <td>@samochod.LiczbaWypozyczen</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<p>
+    <a asp-action="Index" class="btn btn-secondary">Wróć do listy samochodów</a>
+</p>
